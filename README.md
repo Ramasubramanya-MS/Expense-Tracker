@@ -1,6 +1,5 @@
 # Expense Tracker (React)
-
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
+### Visit: https://main.d27urnexzmwn0d.amplifyapp.com/ (Hosted of AWS Amplify)
 
 ## Usage
 ```
